@@ -1,0 +1,11 @@
+{
+  "name": "useEffectWithCompare",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/qingfengmy/useEffectWithCompare.git",
+  "author": "zhangtao <tao.zhang@leyantech.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.1"
+  }
+}
